@@ -1,2 +1,2 @@
 # TrampolineApplication
-Trampoline Func in Assemble
+Trampoline Func in arm64 Assemble
